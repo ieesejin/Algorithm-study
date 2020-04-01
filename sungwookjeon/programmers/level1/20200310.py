@@ -16,7 +16,10 @@ def solution(participant, completion):
             continue
             
     return answer
-#----------------------------------------------------------------------
+
+# ----------------------------------------------------------------------
+
+
 def solution(answers):
     answer = []
     answer_ = []
@@ -71,7 +74,9 @@ def solution(answers):
         answer.append()
         
     return answer
-#----------------------------------------------------------------------
+# ----------------------------------------------------------------------
+
+
 def solution(array, commands):
     answer = []
     for i in commands:
