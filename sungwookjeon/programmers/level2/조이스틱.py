@@ -1,3 +1,4 @@
+# failed
 def solution(name):
     answer = 0
     name = list(name)
